@@ -1,6 +1,6 @@
 # Quizzler – True/False Quiz Game
 
-Quizzler is a lightweight, GUI‑based quiz game built with Python and Tkinter. It pulls trivia questions in real time from the public Open Trivia Database, presents them to the user one at a time, and keeps track of your score. It’s a fun project for learning about REST APIs, basic game logic and building simple desktop apps in Python.
+Quizzler is a lightweight, GUI‑based quiz game built with Python and Tkinter. It pulls trivia questions in real time from the public Open Trivia Database, presents them to the user one at a time, and keeps track of your score.
 
 ## 🎯 Features
 - Simple graphical interface using the built‑in tkinter module.
